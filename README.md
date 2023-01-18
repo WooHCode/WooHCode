@@ -1,4 +1,4 @@
-![WooHCode's GitHub stats]![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooHCode&show_icons=true&theme=radical))
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooHCode&show_icons=true&theme=radical))
 
 🌱 I’m currently learning Java, Spring boot, MySql,postgreSql, vue.js, AWS
 
