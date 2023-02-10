@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooHCode&theme=onedark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooHCode&theme=onedark&show_icons=true&card_width=450px)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooHCode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
