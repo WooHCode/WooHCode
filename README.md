@@ -29,4 +29,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Postgresql-007396?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
+ <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white">
 </div>
