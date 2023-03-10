@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooHCode&layout=compact&card_width=250px)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
-🌱 I’m currently learning Java, Spring boot,Spring data Jpa MySql,postgreSql, vue.js, AWS
+🌱 I’m currently learning Java, Spring boot,Spring MVC,Spring data Jpa MySql,postgreSql, vue.js, AWS
 
 <!--
 **WooHCode/WooHCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
