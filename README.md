@@ -34,3 +34,6 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/javascript-ffff00?style=flat-square&logo=javascript&logoColor=green">
 </div>
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/112393201/228219799-956c93ad-bfec-45db-8037-94eaed41c86d.png)
+
+
