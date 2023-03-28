@@ -35,7 +35,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/javascript-ffff00?style=flat-square&logo=javascript&logoColor=green">
 </div>
 
-## Certification
+## ✨Certification
 
 ![aws-certified-solutions-architect-associate (1)](https://user-images.githubusercontent.com/112393201/228219985-3064060b-d125-4c14-bac1-d354490e271c.png)
 
