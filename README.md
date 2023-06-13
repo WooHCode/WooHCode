@@ -1,6 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooHCode&theme=onedark&show_icons=true&card_width=250)<br>
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WooHCode&theme=onedark&show_icons=true&card_width=250)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WooHCode&layout=compact&card_width=250px)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
+<br><br>-->
 
 🌱 I’m currently learning Java, Spring boot,Spring MVC,Spring data Jpa MySql,postgreSql, vue.js, AWS
 
